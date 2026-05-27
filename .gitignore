@@ -1,0 +1,11 @@
+.env
+logs/runs.log.jsonl
+logs/attempts.log.jsonl
+__pycache__/
+**/__pycache__/
+*.pyc
+**/*.pyc
+.venv/
+.venv/**
+.DS_Store
+.idea/
